@@ -1,2 +1,2 @@
-# maszek2023
+# csöves fotelharcosok 2023
 Első probálkozás 2-es csoportban
